@@ -3,12 +3,12 @@
 ## About Me
 I'm a passionate developer who loves creating innovative solutions and learning new technologies. Currently focused on [your main area of expertise/interest], I enjoy tackling complex problems and building projects that make a difference.
 
-- 🔭 I'm currently working on **[Current Project/Job]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[Types of projects you want to collaborate on]**
+- 🔭 I'm currently working on **A Travel Website **
+- 🌱 I'm currently learning **Next.js**
+- 👯 I'm looking to collaborate on ****
 - 💬 Ask me about **[Your areas of expertise]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 How to reach me: **sksahilali20062003@gmail.com**
+- ⚡ Fun fact: **I am Impulsive**
 
 ## 🛠️ Technologies & Tools
 
